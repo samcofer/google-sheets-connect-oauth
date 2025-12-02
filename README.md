@@ -19,7 +19,7 @@ This is a simple Flask web application that demonstrates how to use Posit Connec
 
 2. **Deploy the application to Posit Connect:**
    - Use the Posit Publisher extension in Posit Workbench or the Connect UI
-   - The application is pre-configured to use the Google OAuth integration with GUID: `d5af6e61-9b1d-4648-86d4-635f7178ee5d`
+   - The application is pre-configured to use the Google OAuth integration with GUID: `d5af6e61-9b1d-4648-86d4-635f7178ee5d`, replace this with your Google Sheet integration guid
    - If needed, you can override this by setting the `CONNECT_OAUTH_ID` environment variable in Connect
 
 3. **Associate the OAuth Integration with the Content:**
