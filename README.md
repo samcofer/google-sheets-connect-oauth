@@ -1,5 +1,7 @@
 # Posit Connect Google Sheets OAuth Integration Example
 
+WARNING: This code is AI generated to serve as an Example, not as a production-ready implementation. There are likely a number of security issues in this repository, and for it's purpose, there isn't a reason to resolve them.
+
 This is a simple Flask web application that demonstrates how to use Posit Connect's OAuth integration with Google to access the Google Sheets API and list the user's most recent sheets. This application uses the Posit Connect SDK to securely obtain OAuth tokens.
 
 ## Requirements
