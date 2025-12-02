@@ -8,7 +8,7 @@ This is a simple Flask web application that demonstrates how to use Posit Connec
 
 - Posit Connect with Google OAuth Integration configured
 - Python 3.9 or higher
-- Posit Connect SDK (`posit-connect` package)
+- Posit Connect SDK (`posit-sdk` package)
 
 ## Setup Instructions
 
@@ -65,5 +65,5 @@ access_token = oauth_creds.get("access_token")
 
 - This application is designed to run ONLY on Posit Connect
 - Users must have a valid Google account with access to Google Sheets
-- The Posit Connect SDK must be installed via pip: `pip install posit-connect`
+- The Posit Connect SDK must be installed via pip: `pip install posit-sdk`
 - This approach provides a more secure and reliable method for obtaining OAuth tokens
